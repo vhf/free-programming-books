@@ -31,6 +31,7 @@
   * [Angular.js](#angularjs)
   * [D3.js](#d3js)
   * [DenoJS](#denojs)
+  * [ExpressJS](#expressjs)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
@@ -408,6 +409,11 @@
 #### DenoJS
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais - *(email required)*
+
+
+#### ExpressJS
+
+* [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Traversy Media
 
 
 #### jQuery
