@@ -34,7 +34,9 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
+* [VS Code](#vs-code)
 * [Vue.js](#vuejs)
+
 
 
 ### Android
@@ -286,6 +288,8 @@
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
 
+### VS Code
+* [VS Code Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita)
 
 ### Vue.js
 
