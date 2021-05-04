@@ -1240,7 +1240,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
-* [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey (PDF)
+* [Clojure in Small Pieces](https://github.com/robleyhall/clojure-small-pieces/raw/master/clojure-in-small-pieces.pdf) - Rich Hickey (PDF)
 * [Clojure Koans](http://clojurekoans.com)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming) - Wikibooks
 * [ClojureScript Koans](http://clojurescriptkoans.com)
